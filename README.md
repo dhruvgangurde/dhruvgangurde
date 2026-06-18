@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Dhruv
 
-<!--
-**dhruvgangurde/dhruvgangurde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at SPIT
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- DSA (Striver A2Z)
+- System Design
+- AI Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- TutorForge AI Tutor
+- Restaurant Management System
+
+---
+
+## LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhruvgangurde)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvgangurde&show_icons=true)
+
+---
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvgangurde&layout=compact)
+
+---
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dhruvgangurde)
