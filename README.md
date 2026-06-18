@@ -2,15 +2,6 @@
 
 🎓 Computer Engineering Student at SPIT
 
-💻 Currently Learning:
-- DSA (Striver A2Z)
-- System Design
-- AI Engineering
-
-🚀 Projects
-- TutorForge AI Tutor
-- Restaurant Management System
-
 ---
 
 ## LeetCode
